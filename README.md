@@ -1,4 +1,4 @@
-# :notebook: Develop Project Log
+# :office: Develop Project Log
 
 ## 2023년
 [[WOORINPANG] 무엇이든 개발해요](https://github.com/woorinpang)
