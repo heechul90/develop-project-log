@@ -5,11 +5,3 @@
 
 ## 2022년
 [[JEEOK] Spring Cloud 를 활용한 Back-End 개발 프로젝트](https://github.com/heechul90/project-jeeok)
-
-## 2021년
-
-## 2020년
-
-## 2019년
-
-## 2018년
